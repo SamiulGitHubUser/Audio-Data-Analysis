@@ -2,10 +2,11 @@
 Audio data analysis with librosa. Vizualization and build a Deep Learning Model
 
 Feature Extration:
-  i. Read audio files
-  ii. Convert the audio to numpy array
-  iii. Display mel-frequency spectrogram 
-  iv. Display wave plot
-  v. Display spectral bandwith
+
+  * Read audio files
+  * Convert the audio to numpy array
+  * Display mel-frequency spectrogram 
+  * Display wave plot
+  * Display spectral bandwith
   
 ## Dataset : https://www.kaggle.com/mmoreaux/audio-cats-and-dogs
